@@ -1,0 +1,17 @@
+body {
+    background-color: #C9CEDE;
+    text-align: center;
+}
+
+.titulo {
+    font-size: 30px; 
+    font-weight: bolder;
+}
+
+.flexpai {
+    display: flex;
+}
+
+.descricao {
+    font-weight: 900;
+}
